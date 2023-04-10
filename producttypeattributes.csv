@@ -1,0 +1,196 @@
+﻿MasterCatalogName,ProductType,AttributeCode,Type,IsRequiredByAdmin,IsHiddenProperty,IsMultiValueProperty,Order
+Mystic Outdoors Master,Base,frame-color,Property,No,No,No,0
+Mystic Outdoors Master,Base,season,Property,No,No,No,0
+Mystic Outdoors Master,Base,role,Property,No,No,No,0
+Mystic Outdoors Master,Base,product-video-1,Property,No,No,No,0
+Mystic Outdoors Master,Base,new-product,Property,No,No,No,0
+Mystic Outdoors Master,Base,new-release,Property,No,No,No,0
+Mystic Outdoors Master,Base,best-use,Property,No,No,No,1
+Mystic Outdoors Master,Base,brand,Property,No,No,No,1
+Mystic Outdoors Master,Base,popularity,Property,No,No,No,2
+Mystic Outdoors Master,Base,product-crosssell,Property,No,No,No,2
+Mystic Outdoors Master,Base,rating,Property,No,No,No,2
+Mystic Outdoors Master,Base,product-related,Property,No,No,No,3
+Mystic Outdoors Master,Base,product-upsell,Property,No,No,No,3
+Mystic Outdoors Master,Hats,availability,Property,No,No,Yes,0
+Mystic Outdoors Master,Hats,popularity,Property,No,No,No,0
+Mystic Outdoors Master,Hats,product-crosssell,Property,No,No,No,0
+Mystic Outdoors Master,Hats,product-related,Property,No,No,No,0
+Mystic Outdoors Master,Hats,product-upsell,Property,No,No,No,0
+Mystic Outdoors Master,Hats,best-use,Property,No,No,No,0
+Mystic Outdoors Master,Hats,brand,Property,No,No,No,0
+Mystic Outdoors Master,Hats,rating,Property,No,No,No,0
+Mystic Outdoors Master,Hats,season,Property,No,No,No,0
+Mystic Outdoors Master,Hats,role,Property,No,No,No,0
+Mystic Outdoors Master,Hats,frame-color,Property,No,No,No,0
+Mystic Outdoors Master,Hats,product-video-1,Property,No,No,No,0
+Mystic Outdoors Master,Hats,new-product,Property,No,No,No,0
+Mystic Outdoors Master,Hats,new-release,Property,No,No,No,0
+Mystic Outdoors Master,Hats,brand-colors,Property,No,No,No,1
+Mystic Outdoors Master,Hats,fabric-type,Property,No,No,No,2
+Mystic Outdoors Master,Hats,faset-color,Property,No,No,No,3
+Mystic Outdoors Master,Hats,gender,Property,No,No,No,4
+Mystic Outdoors Master,Hats,size,Property,No,No,No,5
+Mystic Outdoors Master,Hats,visor,Property,No,No,No,6
+Mystic Outdoors Master,Hats,hat-style,Property,No,No,No,7
+Mystic Outdoors Master,Hats,brand-colors,Option,No,No,No,1
+Mystic Outdoors Master,Hats,size,Option,No,No,No,2
+Mystic Outdoors Master,Hiking Footwear,availability,Property,No,No,Yes,0
+Mystic Outdoors Master,Hiking Footwear,popularity,Property,No,No,No,0
+Mystic Outdoors Master,Hiking Footwear,product-crosssell,Property,No,No,No,0
+Mystic Outdoors Master,Hiking Footwear,frame-color,Property,No,No,No,0
+Mystic Outdoors Master,Hiking Footwear,product-related,Property,No,No,No,0
+Mystic Outdoors Master,Hiking Footwear,product-upsell,Property,No,No,No,0
+Mystic Outdoors Master,Hiking Footwear,best-use,Property,No,No,No,0
+Mystic Outdoors Master,Hiking Footwear,brand,Property,No,No,No,0
+Mystic Outdoors Master,Hiking Footwear,rating,Property,No,No,No,0
+Mystic Outdoors Master,Hiking Footwear,season,Property,No,No,No,0
+Mystic Outdoors Master,Hiking Footwear,role,Property,No,No,No,0
+Mystic Outdoors Master,Hiking Footwear,product-video-1,Property,No,No,No,0
+Mystic Outdoors Master,Hiking Footwear,new-product,Property,No,No,No,0
+Mystic Outdoors Master,Hiking Footwear,new-release,Property,No,No,No,0
+Mystic Outdoors Master,Hiking Footwear,gender,Property,No,No,No,1
+Mystic Outdoors Master,Hiking Footwear,brand-colors,Property,No,No,No,2
+Mystic Outdoors Master,Hiking Footwear,waterproof,Property,No,No,No,2
+Mystic Outdoors Master,Hiking Footwear,footwear-height,Property,No,No,No,3
+Mystic Outdoors Master,Hiking Footwear,features,Property,No,No,Yes,4
+Mystic Outdoors Master,Hiking Footwear,footwear-closure,Property,No,No,No,5
+Mystic Outdoors Master,Hiking Footwear,brand-colors,Option,No,No,No,1
+Mystic Outdoors Master,Hiking Footwear,shoe-size,Option,No,No,No,2
+Mystic Outdoors Master,Hammock,availability,Property,No,No,Yes,0
+Mystic Outdoors Master,Hammock,popularity,Property,No,No,No,0
+Mystic Outdoors Master,Hammock,product-crosssell,Property,No,No,No,0
+Mystic Outdoors Master,Hammock,product-related,Property,No,No,No,0
+Mystic Outdoors Master,Hammock,product-upsell,Property,No,No,No,0
+Mystic Outdoors Master,Hammock,best-use,Property,No,No,No,0
+Mystic Outdoors Master,Hammock,brand,Property,No,No,No,0
+Mystic Outdoors Master,Hammock,rating,Property,No,No,No,0
+Mystic Outdoors Master,Hammock,season,Property,No,No,No,0
+Mystic Outdoors Master,Hammock,role,Property,No,No,No,0
+Mystic Outdoors Master,Hammock,product-video-1,Property,No,No,No,0
+Mystic Outdoors Master,Hammock,frame-color,Property,No,No,No,0
+Mystic Outdoors Master,Hammock,new-product,Property,No,No,No,0
+Mystic Outdoors Master,Hammock,new-release,Property,No,No,No,0
+Mystic Outdoors Master,Hammock,seasons,Property,No,No,No,1
+Mystic Outdoors Master,Hammock,material,Property,No,No,No,2
+Mystic Outdoors Master,Hammock,features,Property,No,No,Yes,2
+Mystic Outdoors Master,Hammock,sleeping-capacity,Property,No,No,No,3
+Mystic Outdoors Master,Hammock,weight,Property,No,No,No,4
+Mystic Outdoors Master,Hammock,weight-capacity-lbs-,Property,No,No,No,5
+Mystic Outdoors Master,Hammock,brand-colors,Option,No,No,No,1
+Mystic Outdoors Master,Hiking Jacket,availability,Property,No,No,Yes,0
+Mystic Outdoors Master,Hiking Jacket,popularity,Property,No,No,No,0
+Mystic Outdoors Master,Hiking Jacket,product-crosssell,Property,No,No,No,0
+Mystic Outdoors Master,Hiking Jacket,product-related,Property,No,No,No,0
+Mystic Outdoors Master,Hiking Jacket,product-upsell,Property,No,No,No,0
+Mystic Outdoors Master,Hiking Jacket,best-use,Property,No,No,No,0
+Mystic Outdoors Master,Hiking Jacket,brand,Property,No,No,No,0
+Mystic Outdoors Master,Hiking Jacket,rating,Property,No,No,No,0
+Mystic Outdoors Master,Hiking Jacket,role,Property,No,No,No,0
+Mystic Outdoors Master,Hiking Jacket,frame-color,Property,No,No,No,0
+Mystic Outdoors Master,Hiking Jacket,product-video-1,Property,No,No,No,0
+Mystic Outdoors Master,Hiking Jacket,new-product,Property,No,No,No,0
+Mystic Outdoors Master,Hiking Jacket,new-release,Property,No,No,No,0
+Mystic Outdoors Master,Hiking Jacket,season,Property,No,No,No,0
+Mystic Outdoors Master,Hiking Jacket,features,Property,No,No,Yes,2
+Mystic Outdoors Master,Hiking Jacket,gender,Property,No,No,No,3
+Mystic Outdoors Master,Hiking Jacket,insulation-type,Property,No,No,No,4
+Mystic Outdoors Master,Hiking Jacket,back-length,Property,No,No,No,5
+Mystic Outdoors Master,Hiking Jacket,fabric-type,Property,No,No,No,6
+Mystic Outdoors Master,Hiking Jacket,brand-colors,Option,No,No,No,1
+Mystic Outdoors Master,Hiking Jacket,size,Option,No,No,No,2
+Mystic Outdoors Master,Hiking Shorts,availability,Property,No,No,Yes,0
+Mystic Outdoors Master,Hiking Shorts,popularity,Property,No,No,No,0
+Mystic Outdoors Master,Hiking Shorts,product-crosssell,Property,No,No,No,0
+Mystic Outdoors Master,Hiking Shorts,product-related,Property,No,No,No,0
+Mystic Outdoors Master,Hiking Shorts,product-upsell,Property,No,No,No,0
+Mystic Outdoors Master,Hiking Shorts,best-use,Property,No,No,No,0
+Mystic Outdoors Master,Hiking Shorts,brand,Property,No,No,No,0
+Mystic Outdoors Master,Hiking Shorts,rating,Property,No,No,No,0
+Mystic Outdoors Master,Hiking Shorts,season,Property,No,No,No,0
+Mystic Outdoors Master,Hiking Shorts,role,Property,No,No,No,0
+Mystic Outdoors Master,Hiking Shorts,frame-color,Property,No,No,No,0
+Mystic Outdoors Master,Hiking Shorts,product-video-1,Property,No,No,No,0
+Mystic Outdoors Master,Hiking Shorts,new-product,Property,No,No,No,0
+Mystic Outdoors Master,Hiking Shorts,new-release,Property,No,No,No,0
+Mystic Outdoors Master,Hiking Shorts,inseam-in.-,Property,No,No,No,1
+Mystic Outdoors Master,Hiking Shorts,brand-colors,Property,No,No,No,3
+Mystic Outdoors Master,Hiking Shorts,fabric-type,Property,No,No,No,4
+Mystic Outdoors Master,Hiking Shorts,features,Property,No,No,Yes,5
+Mystic Outdoors Master,Hiking Shorts,gender,Property,No,No,No,6
+Mystic Outdoors Master,Hiking Shorts,size,Property,No,No,No,7
+Mystic Outdoors Master,Hiking Shorts,brand-colors,Option,No,No,No,1
+Mystic Outdoors Master,Hiking Shorts,size,Option,No,No,No,3
+Mystic Outdoors Master,Hiking Vest,availability,Property,No,No,Yes,0
+Mystic Outdoors Master,Hiking Vest,popularity,Property,No,No,No,0
+Mystic Outdoors Master,Hiking Vest,product-crosssell,Property,No,No,No,0
+Mystic Outdoors Master,Hiking Vest,product-related,Property,No,No,No,0
+Mystic Outdoors Master,Hiking Vest,product-upsell,Property,No,No,No,0
+Mystic Outdoors Master,Hiking Vest,best-use,Property,No,No,No,0
+Mystic Outdoors Master,Hiking Vest,brand,Property,No,No,No,0
+Mystic Outdoors Master,Hiking Vest,rating,Property,No,No,No,0
+Mystic Outdoors Master,Hiking Vest,season,Property,No,No,No,0
+Mystic Outdoors Master,Hiking Vest,role,Property,No,No,No,0
+Mystic Outdoors Master,Hiking Vest,frame-color,Property,No,No,No,0
+Mystic Outdoors Master,Hiking Vest,product-video-1,Property,No,No,No,0
+Mystic Outdoors Master,Hiking Vest,new-product,Property,No,No,No,0
+Mystic Outdoors Master,Hiking Vest,new-release,Property,No,No,No,0
+Mystic Outdoors Master,Hiking Vest,insulated,Property,No,No,No,1
+Mystic Outdoors Master,Hiking Vest,insulation-type,Property,No,No,No,2
+Mystic Outdoors Master,Hiking Vest,features,Property,No,No,Yes,3
+Mystic Outdoors Master,Hiking Vest,fill-power,Property,No,No,No,4
+Mystic Outdoors Master,Hiking Vest,gender,Property,No,No,No,5
+Mystic Outdoors Master,Hiking Vest,brand-colors,Option,No,No,No,1
+Mystic Outdoors Master,Hiking Vest,size,Option,No,No,No,2
+Mystic Outdoors Master,Boot,frame-color,Property,No,No,No,0
+Mystic Outdoors Master,Boot,season,Property,No,No,No,0
+Mystic Outdoors Master,Boot,role,Property,No,No,No,0
+Mystic Outdoors Master,Boot,product-video-1,Property,No,No,No,0
+Mystic Outdoors Master,Boot,new-product,Property,No,No,No,0
+Mystic Outdoors Master,Boot,new-release,Property,No,No,No,0
+Mystic Outdoors Master,Boot,best-use,Property,No,No,No,0
+Mystic Outdoors Master,Boot,brand,Property,No,No,No,0
+Mystic Outdoors Master,Boot,popularity,Property,No,No,No,0
+Mystic Outdoors Master,Boot,product-crosssell,Property,No,No,No,0
+Mystic Outdoors Master,Boot,rating,Property,No,No,No,0
+Mystic Outdoors Master,Boot,product-related,Property,No,No,No,0
+Mystic Outdoors Master,Boot,product-upsell,Property,No,No,No,0
+Mystic Outdoors Master,Boot,availability,Property,No,No,Yes,0
+Mystic Outdoors Master,Boot,faset-color,Option,No,No,No,0
+Mystic Outdoors Master,Boot,size,Option,No,No,No,0
+Mystic Outdoors Master,Backpack,availability,Property,No,No,Yes,0
+Mystic Outdoors Master,Backpack,popularity,Property,No,No,No,0
+Mystic Outdoors Master,Backpack,product-crosssell,Property,No,No,No,0
+Mystic Outdoors Master,Backpack,frame-color,Property,No,No,No,0
+Mystic Outdoors Master,Backpack,product-related,Property,No,No,No,0
+Mystic Outdoors Master,Backpack,product-upsell,Property,No,No,No,0
+Mystic Outdoors Master,Backpack,best-use,Property,No,No,No,0
+Mystic Outdoors Master,Backpack,brand,Property,No,No,No,0
+Mystic Outdoors Master,Backpack,rating,Property,No,No,No,0
+Mystic Outdoors Master,Backpack,role,Property,No,No,No,0
+Mystic Outdoors Master,Backpack,product-video-1,Property,No,No,No,0
+Mystic Outdoors Master,Backpack,new-product,Property,No,No,No,0
+Mystic Outdoors Master,Backpack,new-release,Property,No,No,No,0
+Mystic Outdoors Master,Backpack,hydration-compatible,Property,No,No,No,0
+Mystic Outdoors Master,Backpack,season,Property,No,No,No,0
+Mystic Outdoors Master,Backpack,size,Option,No,No,No,0
+Mystic Outdoors Master,Backpack,faset-color,Option,No,No,No,1
+Mystic Outdoors Master,Backpack,monogram,Extra,No,No,No,0
+Mystic Outdoors Master,Backpack,gift-wrapping,Extra,No,No,No,0
+Mystic Outdoors Master,Backpack,gift-message,Extra,No,No,No,0
+Mystic Outdoors Master,Backpack,product-warranty,Extra,No,No,No,0
+Mystic Outdoors Master,Accessories,availability,Property,No,No,Yes,0
+Mystic Outdoors Master,Accessories,popularity,Property,No,No,No,0
+Mystic Outdoors Master,Accessories,product-crosssell,Property,No,No,No,0
+Mystic Outdoors Master,Accessories,frame-color,Property,No,No,No,0
+Mystic Outdoors Master,Accessories,product-related,Property,No,No,No,0
+Mystic Outdoors Master,Accessories,product-upsell,Property,No,No,No,0
+Mystic Outdoors Master,Accessories,best-use,Property,No,No,No,0
+Mystic Outdoors Master,Accessories,brand,Property,No,No,No,0
+Mystic Outdoors Master,Accessories,rating,Property,No,No,No,0
+Mystic Outdoors Master,Accessories,season,Property,No,No,No,0
+Mystic Outdoors Master,Accessories,role,Property,No,No,No,0
+Mystic Outdoors Master,Accessories,product-video-1,Property,No,No,No,0
+Mystic Outdoors Master,Accessories,new-product,Property,No,No,No,0
+Mystic Outdoors Master,Accessories,new-release,Property,No,No,No,0
+Mystic Outdoors Master,Accessories,loyalty-point-value,Property,No,No,No,0

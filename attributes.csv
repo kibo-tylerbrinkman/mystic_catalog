@@ -1,0 +1,43 @@
+MasterCatalogName,AttributeCode,AttributeName,Description,DataType,InputType,IsExtra,IsOption,IsProperty,Namespace,SearchableInStorefront,SearchableInAdmin,SearchDisplayValue
+Mystic Outdoors Master,fill-power,Fill Power,,String,List,No,No,Yes,Tenant,Yes,Yes,Yes
+Mystic Outdoors Master,sleeping-capacity,Sleeping Capacity,,String,List,No,Yes,Yes,Tenant,Yes,Yes,Yes
+Mystic Outdoors Master,availability,Availability,,String,List,No,No,Yes,Tenant,Yes,Yes,No
+Mystic Outdoors Master,popularity,Popularity,,Number,TextBox,No,No,Yes,Tenant,Yes,Yes,No
+Mystic Outdoors Master,footwear-closure,Footwear Closure,,String,List,No,No,Yes,Tenant,Yes,Yes,Yes
+Mystic Outdoors Master,footwear-height,Footwear Height,,String,List,No,No,Yes,Tenant,Yes,Yes,Yes
+Mystic Outdoors Master,product-crosssell,Product Cross-Sells,,String,TextBox,No,No,Yes,Tenant,No,No,No
+Mystic Outdoors Master,material,Material,,String,List,No,Yes,Yes,Tenant,Yes,Yes,Yes
+Mystic Outdoors Master,frame-color,Frame Color,,String,List,No,Yes,Yes,Tenant,Yes,Yes,Yes
+Mystic Outdoors Master,product-related,Related Products,,String,TextBox,No,No,Yes,Tenant,No,No,No
+Mystic Outdoors Master,product-upsell,Product Upsells,,String,TextBox,No,No,Yes,Tenant,No,No,No
+Mystic Outdoors Master,best-use,Best Use,,String,List,No,No,Yes,Tenant,Yes,Yes,Yes
+Mystic Outdoors Master,gender,Gender,,String,List,No,Yes,Yes,Tenant,Yes,Yes,Yes
+Mystic Outdoors Master,brand,Brand,,String,List,Yes,No,Yes,Tenant,Yes,Yes,Yes
+Mystic Outdoors Master,rating,Rating,,Number,TextBox,No,No,Yes,Tenant,Yes,Yes,No
+Mystic Outdoors Master,brand-colors,Color,,String,List,Yes,Yes,Yes,Tenant,Yes,Yes,Yes
+Mystic Outdoors Master,hat-style,Hat Style,,String,List,No,Yes,Yes,Tenant,Yes,Yes,Yes
+Mystic Outdoors Master,seasons,Seasons,,String,List,No,No,Yes,Tenant,Yes,Yes,Yes
+Mystic Outdoors Master,hydration-compatible,Hydration Compatible,,Bool,YesNo,No,No,Yes,Tenant,Yes,Yes,Yes
+Mystic Outdoors Master,visor,Visor,,Bool,YesNo,No,No,Yes,Tenant,Yes,Yes,Yes
+Mystic Outdoors Master,inseam-in.-,Inseam (in.),,Number,List,No,Yes,Yes,Tenant,Yes,Yes,Yes
+Mystic Outdoors Master,shoe-size,Shoe Size,,String,List,No,Yes,Yes,Tenant,Yes,Yes,Yes
+Mystic Outdoors Master,insulated,Insulated,,Bool,YesNo,No,No,Yes,Tenant,Yes,Yes,Yes
+Mystic Outdoors Master,fabric-type,Fabric Type,,String,List,No,Yes,Yes,Tenant,Yes,Yes,Yes
+Mystic Outdoors Master,insulation-type,Insulation Type,,String,List,No,No,Yes,Tenant,Yes,Yes,Yes
+Mystic Outdoors Master,faset-color,Color,,String,List,Yes,Yes,Yes,Tenant,Yes,Yes,Yes
+Mystic Outdoors Master,size,Size,,String,List,No,Yes,Yes,Tenant,Yes,Yes,No
+Mystic Outdoors Master,waterproof,Waterproof,,Bool,YesNo,No,No,Yes,Tenant,Yes,Yes,Yes
+Mystic Outdoors Master,features,Features,,String,List,No,No,Yes,Tenant,Yes,Yes,Yes
+Mystic Outdoors Master,weight-capacity-lbs-,Weight Capacity (lbs),,Number,TextBox,No,No,Yes,Tenant,Yes,Yes,Yes
+Mystic Outdoors Master,weight,Weight (lbs),,String,List,No,No,Yes,Tenant,Yes,Yes,Yes
+Mystic Outdoors Master,back-length,Back Length,,String,List,No,No,Yes,Tenant,Yes,Yes,Yes
+Mystic Outdoors Master,season,Season,,String,List,No,No,Yes,Tenant,Yes,Yes,Yes
+Mystic Outdoors Master,role,role,,String,List,No,No,Yes,Tenant,Yes,Yes,Yes
+Mystic Outdoors Master,product-video-1,Product Video 1,,String,TextBox,No,No,Yes,Tenant,Yes,Yes,Yes
+Mystic Outdoors Master,monogram,Monogram,,String,TextBox,Yes,No,No,Tenant,Yes,Yes,Yes
+Mystic Outdoors Master,gift-wrapping,Gift Wrapping,,Bool,YesNo,Yes,No,No,Tenant,Yes,Yes,Yes
+Mystic Outdoors Master,gift-message,Gift Message,,String,TextBox,Yes,No,No,Tenant,Yes,Yes,Yes
+Mystic Outdoors Master,new-product,New Product,,Bool,YesNo,No,No,Yes,Tenant,Yes,Yes,Yes
+Mystic Outdoors Master,product-warranty,Product Warranty,,String,List,Yes,No,No,Tenant,Yes,Yes,Yes
+Mystic Outdoors Master,loyalty-point-value,Loyalty Point Value,,Number,TextBox,No,No,Yes,Tenant,Yes,Yes,Yes
+Mystic Outdoors Master,new-release,New Release,,Bool,YesNo,No,No,Yes,Tenant,Yes,Yes,Yes
