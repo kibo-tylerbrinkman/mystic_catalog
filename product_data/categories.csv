@@ -1,0 +1,43 @@
+CatalogName,CategoryCode,CategoryId,ParentCategoryCode,CategoryName,CategoryType,IsDisplayed,IsActive,Sequence,MetaTagTitle,MetaTagDescription,PageTitle,CategoryDescription,MetaTagKeyWords,SEOUrl
+Mystic5,CampHike,1,,Camping & Hiking,Static,Yes,Yes,1,,,Camp & Hike,,,camp-hike
+Mystic5,CampElec,2,CampHike,Camp Electronics,Static,Yes,Yes,4,Camp Electronics,,Camp Electronics,,,camp-electronics
+Mystic5,Watch,7,CampElec,Watches,Static,Yes,Yes,3,Watches,,Watches,,,watches
+Mystic5,Water,12,CampHike,Water,Static,Yes,Yes,9,Water,Water,Water,,,water
+Mystic5,WaterBottles,13,Water,Water Bottles,Static,Yes,Yes,1,"Water Bottles, Flasks and Jugs",,"Water Bottles, Flasks and Jugs",,,water-bottles-flasks-and-jugs
+Mystic5,BackPack,19,CampHike,Back Packs,Static,Yes,Yes,1,,,,,,back-packs
+Mystic5,CampKitchen,20,CampHike,Camp Kitchen,Static,Yes,Yes,6,,,,,,camp-kitchen
+Mystic5,Tents,23,CampHike,Tents,Static,Yes,Yes,3,,,,,,tents
+Mystic5,SleepBags,26,CampHike,Sleeping Bags,Static,Yes,Yes,2,,,,,,sleeping-bags
+Mystic5,HikeFoot,28,ClothesShoes,Hiking Footwear,Static,Yes,Yes,2,,,,,,hiking-footwear
+Mystic5,SleepingFoundation,29,CampHike,Sleeping Foundation,Static,Yes,Yes,5,,,,,,pads-hammocks
+Mystic5,HikeClothes,31,ClothesShoes,Hiking Clothing,Static,Yes,Yes,1,,,,,,hiking-clothing
+Mystic5,ClothesShoes,32,CampHike,Clothes & Shoes,Static,Yes,Yes,7,,,,,,clothes-shoes
+Mystic5,Accessories,33,CampHike,Accessories,Static,Yes,Yes,8,,,,,,accessories
+Mystic5,WinterJackets,84,HikeClothes,Winter Jackets,Static,Yes,Yes,1,,,,,,winter-jackets
+Mystic5,85,85,HikeClothes,Hiking Shirts,Static,Yes,Yes,3,,,,,,hiking-shirts
+Mystic5,86,86,HikeClothes,Hiking Pants,Static,Yes,Yes,5,,,,,,hiking-pants
+Mystic5,87,87,HikeClothes,Hiking Shorts,Static,Yes,Yes,7,,,,,,hiking-shorts
+Mystic5,88,88,HikeClothes,Hats & Accessories,Static,Yes,Yes,8,,,,,,hats-accessories
+Mystic5,108,108,HikeFoot,Hiking Boots,Static,Yes,Yes,1,,,,,,hiking-boots
+Mystic5,109,109,HikeFoot,Hiking Shoes,Static,Yes,Yes,2,,,,,,hiking-shoes
+Mystic5,156,156,,Men,Static,Yes,Yes,3,,,,,,men
+Mystic5,157,157,,Women,Static,Yes,Yes,2,,,,This is the womens category,,women
+Mystic5,158,158,,Kids,Static,No,Yes,5,,,,,,kids
+Mystic5,223,223,295,Shop by Brand,Static,Yes,Yes,2,,,,,,shop-by-brand
+Mystic5,229,229,BackPack,Day Packs,Static,Yes,Yes,5,,,,,,day-packs
+Mystic5,230,230,BackPack,Specialty Packs,Static,Yes,Yes,4,,,,,,specialty-packs
+Mystic5,231,231,CampKitchen,Kitchen Accesories,Static,Yes,Yes,3,,,,,,kitchen-accesories
+Mystic5,232,232,CampKitchen,Freeze Dried Food,Static,Yes,Yes,4,,,,,,freeze-dried-food
+Mystic5,233,233,CampKitchen,Backpacker's Menu,Static,Yes,Yes,5,,,,,,backpacker-s-menu
+Mystic5,234,234,CampKitchen,Essential Utensils,Static,Yes,Yes,6,,,,,,essential-utensils
+Mystic5,235,235,Tents,High Mountain Tents,Static,Yes,Yes,2,,,,,,high-mountain-tents
+Mystic5,236,236,Tents,Low Elevation Tents,Static,Yes,Yes,3,,,,,,low-elevation-tents
+Mystic5,237,237,Tents,Single Occupant Tents,Static,Yes,Yes,4,,,,,,single-occupant-tents
+Mystic5,238,238,Tents,Family Tents,Static,Yes,Yes,5,,,,,,family-tents
+Mystic5,239,239,Tents,Tent Parts & Accessories,Static,Yes,Yes,6,,,,,,tent-parts-accessories
+Mystic5,240,240,Water,Flasks,Static,Yes,Yes,2,,,,,,flasks
+Mystic5,241,241,Water,Jugs,Static,Yes,Yes,3,,,,,,jugs
+Mystic5,242,242,SleepingFoundation,Pads,Static,Yes,Yes,1,,,,,,pads
+Mystic5,243,243,SleepingFoundation,Hammocks,Static,Yes,Yes,2,,,,,,hammocks
+Mystic5,295,295,,Accessories,Static,Yes,Yes,4,,,,,,accessories
+Mystic5,296,296,295,Fragrances,Static,Yes,Yes,3,,,,,,fragrances
